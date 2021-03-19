@@ -1,0 +1,1 @@
+Namespace(batch_size=256, embed_hidden_units=50, embedding_size=40, experiment_name='EnglishBPE50Epochs', language='EnglishBPE', learn_rate=0.001, model='FF', num_of_epochs=50, num_of_examples=100, seed=873, use_gpu=True, weight_decay_coefficient=0)

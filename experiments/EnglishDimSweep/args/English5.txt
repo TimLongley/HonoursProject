@@ -1,0 +1,1 @@
+Namespace(batch_size=256, embed_hidden_units=64, embedding_size=5, experiment_name='EnglishDimSweep', language='English', learn_rate=0.001, model='FF', num_of_epochs=100, use_gpu=True, weight_decay_coefficient=0)
